@@ -1,0 +1,212 @@
+body{
+/* desktop-main */
+
+position: relative;
+width: 1340px;
+height: 1578px;
+
+background: #000000;
+}
+
+.image{
+
+/* pexels-johannes-plenio-1114900 1 */
+
+position: absolute;
+width: 1340px;
+height: 829px;
+left: 180px;
+top: -40px;
+
+background: url(/Users/aahana/Downloads/pexels-johannes-plenio-11149001.png);
+}
+
+/* pexels-pixabay-87009 1 */
+.image2{
+    position: absolute;
+    width: 1340px;
+    height: 838.57px;
+    left: 0px;
+    top: 739px;
+
+background: url(/Users/aahana/Downloads/pexels-pixabay-870091.png);
+}
+
+/* Star Tours */
+.star-tours{
+position: absolute;
+left: 43.69%;
+right: 7.69%;
+top: 16.46%;
+bottom: 49.48%;
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 128px;
+line-height: 154px;
+z-index: 1;
+color: #FFFFFF;
+
+}
+
+a {
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #CCCCCC;
+  }
+  
+
+/* Get ready for an adventure of a lifetime! */
+.get-ready{
+position: absolute;
+left: 41.45%;
+right: 10.52%;
+top: 28.85%;
+bottom: 32.95%;
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 43px;
+z-index: 1;
+color: #FFFFFF;
+}
+
+/* Cost & Planning */
+.cost{
+position: absolute;
+left: 4.1%;
+right: 76.34%;
+top: 10.2%;
+bottom: 79.61%;
+z-index: 1;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 43px;
+
+color: #FFFFFF;
+}
+
+/* Training */
+.training{
+position: absolute;
+left: 98.96%;
+right: 1.04%;
+top: 10.2%;
+bottom: 79.61%;
+z-index: 1;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 43px;
+
+color: #FFFFFF;
+}
+
+.safety{
+
+/* Vehicles & Safety */
+
+position: absolute;
+left: 2.91%;
+right: 75.07%;
+top: 37.58%;
+bottom: 7.24%;
+z-index: 1;
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 43px;
+
+color: #FFFFFF;
+
+
+
+
+}
+
+.launch{
+
+/* Launch & Recovery */
+
+position: absolute;
+left: 97.96%;
+right: 0%;
+top: 37.58%;
+bottom: 0%;
+z-index: 1;
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 43px;
+
+color: #FFFFFF;
+
+
+}
+
+.para1{
+
+position: absolute;
+left: 3.58%;
+right: 3.66%;
+top: 53.87%;
+bottom: 4.63%;
+z-index:1;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 38px;
+
+color: #FFFFFF;
+
+
+}
+
+.para2{
+
+position: absolute;
+left: 3.58%;
+right: 3.66%;
+top: 83.87%;
+bottom: 4.63%;
+z-index:1;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 32px;
+line-height: 38px;
+
+color: #FFFFFF;
+}
+
+.home{
+
+position: absolute;
+left: 53.1%;
+right: 47.34%;
+top: 67.2%;
+bottom: 79.61%;
+z-index: 1;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 43px;
+
+color: #f4efef;
+
+}

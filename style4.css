@@ -1,0 +1,205 @@
+body{
+/* desktop-launch */
+
+position: relative;
+width: 1340px;
+height: 1578px;
+
+background: #000000;
+}
+
+.headings{
+
+/* Launch & Recovery */
+
+position: absolute;
+left: 30.43%;
+right: 6.43%;
+top: 15.97%;
+bottom: 75.03%;
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 96px;
+line-height: 115px;
+
+color: #FFFFFF;
+
+
+}
+
+.images{
+/* pexels-pixabay-256229 1 */
+width:1440px;
+height:1172px;
+position: absolute;
+left: -0.3%;
+right: 0.28%;
+top: 32.27%;
+bottom: -0.26%;
+
+background: url(/Users/aahana/Downloads/pexels-pixabay-2562291.png);
+transform: rotate(-0.18deg);
+
+}
+
+   /* Home */
+   .home{
+    position: absolute;
+    left: 4.1%;
+    right: 76.34%;
+    top: 10.2%;
+    bottom: 79.61%;
+    z-index: 1;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 43px;
+    
+    color: #FFFFFF;
+    }
+    
+    /* Training */
+    .training{
+    position: absolute;
+    left: 96.96%;
+    right: 3.04%;
+    top: 10.2%;
+    bottom: 79.61%;
+    z-index: 1;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 43px;
+    
+    color: #FFFFFF;
+    }
+    
+    .safety{
+    
+    /* Training */
+    
+    position: absolute;
+    left: 96.91%;
+    right: 1.07%;
+    top: 37.58%;
+    bottom: 7.24%;
+    z-index: 1;
+    
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 43px;
+    
+    color: #FFFFFF;
+    
+    
+    }
+    
+    .launch{
+    
+    /* Launch & Recovery */
+    
+    position: absolute;
+    left: 4.1%;
+    right: 0%;
+    top: 37.58%;
+    bottom: 0%;
+    z-index: 1;
+    
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 43px;
+    
+    color: #FFFFFF;
+    
+    
+    }
+
+    .vehicles{
+
+        /* Vehicles */
+        
+        position: absolute;
+        left: 52.39%;
+        right: 39.63%;
+        top: 53.8%;
+        bottom: 41.32%;
+        z-index: 1;
+        font-family: 'Fira Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 64px;
+        line-height: 77px;
+        
+        /* identical to box height */
+        
+        color: #FFFFFF;
+        
+        
+         }
+        
+         .v1{
+        position: absolute;
+        left: 28.7%;
+        right: 6.04%;
+        top: 63.5%;
+        bottom: 27.19%;
+        z-index: 1;
+        font-family: 'Fira Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        
+        color: #FFFFFF;
+         }
+        
+         .safetys{
+        /* Safety */
+        
+        position: absolute;
+        left: 52.39%;
+        right: 43.73%;
+        top: 72.81%;
+        bottom: 22.31%;
+        z-index: 1;
+ 
+        font-family: 'Fira Sans';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 64px;
+        line-height: 77px;
+        
+        /* identical to box height */
+        
+        color: #FFFFFF;
+        
+         }
+        
+         .s2{
+        
+        position: absolute;
+        left: 28.7%;
+        right: 6.04%;
+        top: 82.57%;
+        bottom: 8.11%;
+        z-index: 1;
+
+        font-family: 'Fira Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 24px;
+        
+        color: #FFFFFF;
+        
+        
+         }
+        

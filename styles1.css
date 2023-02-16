@@ -1,0 +1,203 @@
+body{
+
+/* desktop-cost */
+
+position: relative;
+width: 1340px;
+height: 1578px;
+
+background: #000000;
+
+}
+
+.images{
+
+/* pexels-alex-andrews-821718 1 */
+
+
+position: absolute;
+width: 1340px;
+height: 1990px;
+left: -150px;
+top: -420px;
+z-index:-1;
+
+background: url(/Users/aahana/Downloads/andrews-821718.jpg);
+}
+
+.cost{
+
+/* Cost & Planning */
+
+position: absolute;
+left: 38.39%;
+right: 3.48%;
+top: 27.6%;
+bottom: 60.41%;
+z-index:1;
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 800;
+font-size: 96px;
+line-height: 115px;
+
+color: #FFFFFF;
+
+
+}
+/* Home */
+.home{
+    position: absolute;
+    left: 4.1%;
+    right: 76.34%;
+    top: 10.2%;
+    bottom: 79.61%;
+    z-index: 1;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 43px;
+    
+    color: #FFFFFF;
+    }
+    
+    /* Training */
+    .training{
+    position: absolute;
+    left: 96.96%;
+    right: 3.04%;
+    top: 10.2%;
+    bottom: 79.61%;
+    z-index: 1;
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 43px;
+    
+    color: #FFFFFF;
+    }
+    
+    .safety{
+    
+    /* Vehicles & Safety */
+    
+    position: absolute;
+    left: 2.91%;
+    right: 75.07%;
+    top: 37.58%;
+    bottom: 7.24%;
+    z-index: 1;
+    
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 43px;
+    
+    color: #FFFFFF;
+    
+    
+    }
+    
+    .launch{
+    
+    /* Launch & Recovery */
+    
+    position: absolute;
+    left: 97.96%;
+    right: 0%;
+    top: 37.58%;
+    bottom: 0%;
+    z-index: 1;
+    
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 36px;
+    line-height: 43px;
+    
+    color: #FFFFFF;
+    
+    
+    }
+
+.p1{
+/* Cost */
+
+position: absolute;
+left: 58.22%;
+right: 45.22%;
+top: 62.82%;
+bottom: 38.3%;
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 77px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+
+}
+
+.p2{
+
+position: absolute;
+left: 35.22%;
+right: 6.57%;
+top: 68.7%;
+bottom: 30.99%;
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+
+}
+
+.r1{
+ /* Planning */
+
+position: absolute;
+left: 55.22%;
+right: 38.22%;
+top: 82.43%;
+bottom: 10.69%;
+
+font-family: 'Fira Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 64px;
+line-height: 77px;
+
+/* identical to box height */
+
+color: #FFFFFF;
+}
+
+.r2{
+
+    position: absolute;
+    left: 35.22%;
+    right: 6.57%;
+    top: 89.7%;
+    bottom: 3.99%;
+    
+    font-family: 'Fira Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    
+    color: #FFFFFF;
+    
+    
+    }
